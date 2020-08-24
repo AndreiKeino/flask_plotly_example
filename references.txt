@@ -1,0 +1,24 @@
+https://blog.heptanalytics.com/flask-plotly-dashboard/
+
+https://github.com/plotly/plotlyjs-flask-example
+
+
+https://plotly.com/javascript/legend/
+
+https://plotly.com/javascript/configuration-options/
+
+plotly.js set legend
+
+run the flask shell:
+
+flask shell
+
+
+run the app from console:
+
+set FLASK_APP=app.py
+set FLASK_ENV=development
+flask run
+
+
+
